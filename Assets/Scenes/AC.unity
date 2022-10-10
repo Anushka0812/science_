@@ -2053,9 +2053,9 @@ Transform:
   - {fileID: 1586016788}
   - {fileID: 8008480868585416661}
   - {fileID: 188799549}
+  - {fileID: 284855125}
   - {fileID: 2050839741}
   - {fileID: 321380143}
-  - {fileID: 284855125}
   - {fileID: 813257385}
   - {fileID: 1165109652}
   m_Father: {fileID: 0}
@@ -2933,7 +2933,7 @@ Transform:
   - {fileID: 207396495}
   - {fileID: 112207279}
   m_Father: {fileID: 187587896}
-  m_RootOrder: 21
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!114 &284855126
 MonoBehaviour:
@@ -7651,7 +7651,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &772324394
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11621,7 +11621,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1165109652
 Transform:
   m_ObjectHideFlags: 0
@@ -13320,7 +13320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c409c4d5a57c51b4d9ec3de982f52b96, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1436973119457424947, guid: c409c4d5a57c51b4d9ec3de982f52b96, type: 3}
       propertyPath: m_Materials.Array.data[0]
