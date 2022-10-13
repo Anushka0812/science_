@@ -15,6 +15,6 @@ public class canvas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.LookAt(cam.transform);
+        //transform.LookAt(cam.transform);
     }
 }
