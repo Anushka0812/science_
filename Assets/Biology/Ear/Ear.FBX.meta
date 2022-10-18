@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: ae755cfed3ac14775a36129b913ab70c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arteries
+    100002: Bone
+    100004: Cochlea
+    100006: Cochlea 1
+    100008: Cochlear Duct
+    100010: //RootNode
+    100012: Eardrum
+    100014: Endolymphatic duct
+    100016: Eustachian Tube
+    100018: Fat and cartilage
+    100020: Incus
+    100022: Levator Veli PalatiniTensor Veli Palatini Muscle
+    100024: Malleus
+    100026: Nerves
+    100028: Organ of Corti
+    100030: Osseous Spiral Lamina
+    100032: Saccule
+    100034: Semicircular Ducts
+    100036: Skin
+    100038: Stapes
+    100040: Temporal Muscle
+    100042: Tensor Tympani Muscle
+    100044: Tensor Veli Palatini Muscle
+    100046: Utricle
+    100048: Veins
+    400000: Arteries
+    400002: Bone
+    400004: Cochlea
+    400006: Cochlea 1
+    400008: Cochlear Duct
+    400010: //RootNode
+    400012: Eardrum
+    400014: Endolymphatic duct
+    400016: Eustachian Tube
+    400018: Fat and cartilage
+    400020: Incus
+    400022: Levator Veli PalatiniTensor Veli Palatini Muscle
+    400024: Malleus
+    400026: Nerves
+    400028: Organ of Corti
+    400030: Osseous Spiral Lamina
+    400032: Saccule
+    400034: Semicircular Ducts
+    400036: Skin
+    400038: Stapes
+    400040: Temporal Muscle
+    400042: Tensor Tympani Muscle
+    400044: Tensor Veli Palatini Muscle
+    400046: Utricle
+    400048: Veins
+    2100000: Skin and Accessories
+    2100002: Muscles
+    2100004: Bone
+    2100006: Fat and Cartilage
+    2100008: 'Eardrum #2'
+    2100010: 'Eardrum #1'
+    2300000: Arteries
+    2300002: Bone
+    2300004: Cochlea
+    2300006: Cochlea 1
+    2300008: Cochlear Duct
+    2300010: Eardrum
+    2300012: Endolymphatic duct
+    2300014: Eustachian Tube
+    2300016: Fat and cartilage
+    2300018: Incus
+    2300020: Levator Veli PalatiniTensor Veli Palatini Muscle
+    2300022: Malleus
+    2300024: Nerves
+    2300026: Organ of Corti
+    2300028: Osseous Spiral Lamina
+    2300030: Saccule
+    2300032: Semicircular Ducts
+    2300034: Skin
+    2300036: Stapes
+    2300038: Temporal Muscle
+    2300040: Tensor Tympani Muscle
+    2300042: Tensor Veli Palatini Muscle
+    2300044: Utricle
+    2300046: Veins
+    3300000: Arteries
+    3300002: Bone
+    3300004: Cochlea
+    3300006: Cochlea 1
+    3300008: Cochlear Duct
+    3300010: Eardrum
+    3300012: Endolymphatic duct
+    3300014: Eustachian Tube
+    3300016: Fat and cartilage
+    3300018: Incus
+    3300020: Levator Veli PalatiniTensor Veli Palatini Muscle
+    3300022: Malleus
+    3300024: Nerves
+    3300026: Organ of Corti
+    3300028: Osseous Spiral Lamina
+    3300030: Saccule
+    3300032: Semicircular Ducts
+    3300034: Skin
+    3300036: Stapes
+    3300038: Temporal Muscle
+    3300040: Tensor Tympani Muscle
+    3300042: Tensor Veli Palatini Muscle
+    3300044: Utricle
+    3300046: Veins
+    4300000: Eustachian Tube
+    4300002: Arteries
+    4300004: Tensor Veli Palatini Muscle
+    4300006: Tensor Tympani Muscle
+    4300008: Temporal Muscle
+    4300010: Skin
+    4300012: Bone
+    4300014: Levator Veli PalatiniTensor Veli Palatini Muscle
+    4300016: Fat and cartilage
+    4300018: Semicircular Ducts
+    4300020: Cochlear Duct
+    4300022: Utricle
+    4300024: Saccule
+    4300026: Eardrum
+    4300028: Incus
+    4300030: Malleus
+    4300032: Nerves
+    4300034: Cochlea
+    4300036: Osseous Spiral Lamina
+    4300038: Organ of Corti
+    4300040: Stapes
+    4300042: Endolymphatic duct
+    4300044: Cochlea
+    4300046: Veins
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
