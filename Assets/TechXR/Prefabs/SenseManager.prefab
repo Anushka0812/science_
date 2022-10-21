@@ -691,6 +691,7 @@ MonoBehaviour:
   m_Script: {fileID: 934560322, guid: f16dede6c9a2d4915be0b10c4232e5ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  InputConfiguration: Auto detect
 --- !u!114 &4093205176929175312
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,4 +1,5 @@
 using UnityEngine;
+using TechXR.Core.Sense;
 public class Zoom : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -11,9 +12,9 @@ public class Zoom : MonoBehaviour
             transform.localScale = Vector3.MoveTowards(transform.localScale, Vector3.one * ZoomScale, (ZoomScale / duration) * Time.deltaTime);
         else
             transform.localScale = Vector3.MoveTowards(transform.localScale, Vector3.one, (ZoomScale / duration) * Time.deltaTime);
-        if (Input.GetKeyDown(KeyCode.A))
+        if (SenseInput.GetButtonDown("B"))
             IsZoomedIn = true;
-        if (Input.GetKeyDown(KeyCode.B))
+        if (SenseInput.GetButtonDown("A"))
             IsZoomedIn = false;
     }
 }

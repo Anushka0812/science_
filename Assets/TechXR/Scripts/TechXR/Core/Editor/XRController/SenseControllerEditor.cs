@@ -31,7 +31,16 @@ namespace TechXR.Core.Editor
             // If the teleport option is checked, show teleport Button Field for Button selection
             if (senseController.Teleport)
             {
-                senseController.TeleportButton = (SenseController.XRButton)EditorGUILayout.EnumPopup("Teleport Button ", senseController.TeleportButton);
+                senseController.UsingOculus = EditorGUILayout.Toggle("Using Oculus", senseController.UsingOculus);
+
+                if (senseController.UsingOculus)
+                {
+                    senseController.OculusTeleportButton = (SenseController.OculusButton)EditorGUILayout.EnumPopup("Teleport Button ", senseController.OculusTeleportButton);
+                }
+                else
+                {
+                    senseController.SenseXRTeleportButton = (SenseController.XRButton)EditorGUILayout.EnumPopup("Teleport Button ", senseController.SenseXRTeleportButton);
+                }
             }
             //
             if (EditorGUI.EndChangeCheck())

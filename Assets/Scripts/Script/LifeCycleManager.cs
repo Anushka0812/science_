@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class LifeCycleManager : MonoBehaviour
 {
-    public Button Next, Previous;
+    /*public Button Next, Previous;
 
     public void DisableButton()
     {
@@ -25,5 +25,5 @@ public class LifeCycleManager : MonoBehaviour
     private void ButtonInt(Button button, bool isInteractable)
     {
         button.interactable = isInteractable;
-    }
+    }*/
 }

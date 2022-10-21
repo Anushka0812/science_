@@ -113,7 +113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Teleport: 0
-  TeleportButton: 0
+  SenseXRTeleportButton: 0
+  OculusTeleportButton: 0
+  UsingOculus: 0
   m_LaserPointer: {fileID: 8408607690706335275}
   m_PointerOptions:
   - {fileID: 7734855675419742281}
@@ -529,6 +531,9 @@ MonoBehaviour:
   LaserHitScale: 0.02
   LaserAlwaysOn: 1
   Color: {r: 1, g: 1, b: 1, a: 0}
+  SenseXRTriggerButton: 5
+  OculusTriggerButton: 0
+  UsingOculus: 0
   ButtonState: 0
   m_PrevButtonState: 0
 --- !u!1 &4839803299852014179
